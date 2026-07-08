@@ -52,40 +52,8 @@ I'm a Computer Engineering student focused on **Data Analytics, Data Science, an
 
 ---
 
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Classification, feature engineering, model evaluation (Scikit-learn, XGBoost) |
-| Deep Learning | ⭐⭐⭐☆☆ | Foundational neural network models with TensorFlow |
-| Data Analysis | ⭐⭐⭐⭐☆ | EDA, statistical analysis, dashboarding (Pandas, Power BI, Tableau) |
-| ETL & Data Engineering | ⭐⭐⭐⭐☆ | Large-scale data pipelines into relational databases (MySQL) |
-| Generative AI | ⭐⭐⭐☆☆ | LLM fundamentals, prompt engineering — actively building project experience |
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🏏 CricIntel — Cricket Talent Intelligence Platform</b></summary>
-<br>
-
-End-to-end analytics platform that transforms raw IPL match data into scouting-grade player intelligence, built to surface undervalued talent for auction decision-making.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, MySQL, Scikit-learn, XGBoost, Streamlit |
-| **Scale** | ETL pipeline processing 1,000+ match files into a normalized database |
-| **Performance** | Automated player consistency & impact scoring across full historical dataset |
-| **Core Feature** | "Hidden Gem Detection System" for identifying undervalued players |
-| **Impact** | Interactive dashboard for player search, comparison, and auction recommendations |
-| **Repository** | *(add link once pushed)* |
-
-</details>
 
 <details>
 <summary><b>📊 IPL-PowerBI-Dashboard — Cricket Analytics Dashboard</b></summary>
