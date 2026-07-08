@@ -1,9 +1,8 @@
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0E6BA8,100:2EC4B6&height=220&section=header&text=OMKAR%20SAPLE&fontSize=48&fontColor=ffffff&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Generative%20AI&descSize=18&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0E6BA8,100:2EC4B6&height=220&section=header&text=OMKAR%20SAPLE&fontSize=48&fontColor=ffffff&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Generative%20AI&descSize=18&descAlignY=58&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Building+Real-World+AI%2FML+Systems;Exploring+Generative+AI+%26+LLMs;Turning+Data+Into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&colors=2EC4B6,0E6BA8,5DD9C1,C9D6DF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omkar+Saple;Data+Science+%26+ML+Engineer;Building+Real-World+AI%2FML+Systems;Exploring+Generative+AI+%26+LLMs;Turning+Data+Into+Decisions)](https://git.io/typing-svg)
 
 ![B.E. Computer Engineering](https://img.shields.io/badge/B.E.-Computer%20Engineering-0E6BA8?style=flat-square&labelColor=0A1128)
 ![CGPA](https://img.shields.io/badge/CGPA-8.50-0E6BA8?style=flat-square&labelColor=0A1128)
@@ -27,7 +26,7 @@ I'm a Computer Engineering student focused on **Data Analytics, Data Science, an
 
 **🎯 Open To:** Data Analyst / Data Scientist roles · Generative AI Engineering roles · Research collaborations · Open-source contributions
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,100:2EC4B6&height=50&animation=twinkling" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -53,40 +52,10 @@ I'm a Computer Engineering student focused on **Data Analytics, Data Science, an
 
 ---
 
-## 🤖 AI / ML Expertise
 
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Classification, feature engineering, model evaluation (Scikit-learn, XGBoost) |
-| Deep Learning | ⭐⭐⭐☆☆ | Foundational neural network models with TensorFlow |
-| Data Analysis | ⭐⭐⭐⭐☆ | EDA, statistical analysis, dashboarding (Pandas, Power BI, Tableau) |
-| ETL & Data Engineering | ⭐⭐⭐⭐☆ | Large-scale data pipelines into relational databases (MySQL) |
-| Generative AI | ⭐⭐⭐☆☆ | LLM fundamentals, prompt engineering — actively building project experience |
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,100:2EC4B6&height=50&animation=twinkling" width="100%"/>
 
 ## 🚀 Featured Projects
-
-<details>
-<summary><b>🏏 CricIntel — Cricket Talent Intelligence Platform</b></summary>
-<br>
-
-End-to-end analytics platform that transforms raw IPL match data into scouting-grade player intelligence, built to surface undervalued talent for auction decision-making.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, MySQL, Scikit-learn, XGBoost, Streamlit |
-| **Scale** | ETL pipeline processing 1,000+ match files into a normalized database |
-| **Performance** | Automated player consistency & impact scoring across full historical dataset |
-| **Core Feature** | "Hidden Gem Detection System" for identifying undervalued players |
-| **Impact** | Interactive dashboard for player search, comparison, and auction recommendations |
-| **Repository** | *(add link once pushed)* |
-
-</details>
 
 <details>
 <summary><b>📊 IPL-PowerBI-Dashboard — Cricket Analytics Dashboard</b></summary>
@@ -120,7 +89,7 @@ Real-time system for detecting malicious network traffic using machine learning 
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,100:2EC4B6&height=50&animation=twinkling" width="100%"/>
 
 ## 💼 Experience
 
@@ -159,13 +128,6 @@ Completed a structured AI/ML internship program combining applied machine learni
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Omkar-Saple&theme=nord&no-frame=true&column=7&margin-w=8)
-
-</div>
 
 ## 📈 Contribution Activity
 
@@ -207,7 +169,7 @@ open_to:
   - Open-source collaboration
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,100:2EC4B6&height=50&animation=twinkling" width="100%"/>
 
 ## 📬 Connect
 
@@ -225,8 +187,9 @@ open_to:
 
 *"Data tells the story — models predict the ending — I build the systems that connect the two."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,50:0E6BA8,100:0A1128&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,50:0E6BA8,100:0A1128&height=120&section=footer&animation=twinkling)
 
 </div>
+
 
 
