@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0E6BA8,100:2EC4B6&height=220&section=header&text=OMKAR%20SAPLE&fontSize=48&fontColor=ffffff&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Generative%20AI&descSize=18&descAlignY=58&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0E6BA8,100:2EC4B6&height=250&section=header&text=OMKAR%20SAPLE&fontSize=48&fontColor=ffffff&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Generative%20AI&descSize=18&descAlignY=68&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&colors=2EC4B6,0E6BA8,5DD9C1,C9D6DF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omkar+Saple;Data+Science+%26+ML+Engineer;Building+Real-World+AI%2FML+Systems;Exploring+Generative+AI+%26+LLMs;Turning+Data+Into+Decisions)](https://git.io/typing-svg)
 
