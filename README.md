@@ -1,21 +1,21 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:a044ff&height=220&section=header&text=OMKAR%20SAPLE&fontSize=48&fontColor=ffffff&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Generative%20AI&descSize=18&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0E6BA8,100:2EC4B6&height=220&section=header&text=OMKAR%20SAPLE&fontSize=48&fontColor=ffffff&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Generative%20AI&descSize=18&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A044FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Building+Real-World+AI%2FML+Systems;Exploring+Generative+AI+%26+LLMs;Turning+Data+Into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Building+Real-World+AI%2FML+Systems;Exploring+Generative+AI+%26+LLMs;Turning+Data+Into+Decisions)](https://git.io/typing-svg)
 
-![B.E. Computer Engineering](https://img.shields.io/badge/B.E.-Computer%20Engineering-6a3093?style=flat-square&labelColor=1a1a2e)
-![CGPA](https://img.shields.io/badge/CGPA-8.50-6a3093?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/📍-India-6a3093?style=flat-square&labelColor=1a1a2e)
+![B.E. Computer Engineering](https://img.shields.io/badge/B.E.-Computer%20Engineering-0E6BA8?style=flat-square&labelColor=0A1128)
+![CGPA](https://img.shields.io/badge/CGPA-8.50-0E6BA8?style=flat-square&labelColor=0A1128)
+![Location](https://img.shields.io/badge/📍-India-0E6BA8?style=flat-square&labelColor=0A1128)
 
-<a href="https://www.linkedin.com/in/omkarsaple/"><img src="https://img.shields.io/badge/LinkedIn-6a3093?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"></a>
-<a href="mailto:omkarsaple2304@gmail.com"><img src="https://img.shields.io/badge/Email-6a3093?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"></a>
-<a href="https://github.com/Omkar-Saple"><img src="https://img.shields.io/badge/GitHub-6a3093?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"></a>
+<a href="https://www.linkedin.com/in/omkarsaple/"><img src="https://img.shields.io/badge/LinkedIn-0E6BA8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1128"></a>
+<a href="mailto:omkarsaple2304@gmail.com"><img src="https://img.shields.io/badge/Email-0E6BA8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1128"></a>
+<a href="https://github.com/Omkar-Saple"><img src="https://img.shields.io/badge/GitHub-0E6BA8?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1128"></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Omkar-Saple&style=for-the-badge&color=6a3093&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Omkar-Saple?style=for-the-badge&color=6a3093&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/Omkar-Saple?style=for-the-badge&color=6a3093&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=Omkar-Saple&style=for-the-badge&color=0E6BA8&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Omkar-Saple?style=for-the-badge&color=0E6BA8&labelColor=0A1128)
+![Stars](https://img.shields.io/github/stars/Omkar-Saple?style=for-the-badge&color=0E6BA8&labelColor=0A1128)
 
 </div>
 
@@ -35,21 +35,21 @@ I'm a Computer Engineering student focused on **Data Analytics, Data Science, an
 [![My Skills](https://skillicons.dev/icons?i=py,java,mysql)](https://skillicons.dev)
 
 **Data & ML**
-![Pandas](https://img.shields.io/badge/Pandas-6a3093?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-6a3093?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-6a3093?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-6a3093?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-6a3093?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-0E6BA8?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0E6BA8?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0E6BA8?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0E6BA8?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0E6BA8?style=flat-square)
 
 **Visualization**
-![Power BI](https://img.shields.io/badge/Power%20BI-6a3093?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-6a3093?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-6a3093?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-0E6BA8?style=flat-square&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-0E6BA8?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0E6BA8?style=flat-square)
 
 **Tooling & Platforms**
 [![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
-![Streamlit](https://img.shields.io/badge/Streamlit-6a3093?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-6a3093?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-0E6BA8?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0E6BA8?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -141,8 +141,8 @@ Completed a structured AI/ML internship program combining applied machine learni
 
 **Codebasics.io**
 
-![GenAI Bootcamp](https://img.shields.io/badge/GenAI%20%26%20Data%20Science%20Bootcamp%203.0-6a3093?style=for-the-badge&labelColor=1a1a2e)
-![SQL Advanced](https://img.shields.io/badge/SQL%3A%20Beginner%20to%20Advanced-6a3093?style=for-the-badge&labelColor=1a1a2e)
+![GenAI Bootcamp](https://img.shields.io/badge/GenAI%20%26%20Data%20Science%20Bootcamp%203.0-0E6BA8?style=for-the-badge&labelColor=0A1128)
+![SQL Advanced](https://img.shields.io/badge/SQL%3A%20Beginner%20to%20Advanced-0E6BA8?style=for-the-badge&labelColor=0A1128)
 
 > *Add AWS / Oracle / NPTEL / Cisco badges here as you complete those certifications — keeping this section to verified credentials only.*
 
@@ -152,10 +152,10 @@ Completed a structured AI/ML internship program combining applied machine learni
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Omkar-Saple&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Saple&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Omkar-Saple&show_icons=true&hide_border=true&count_private=true&bg_color=0A1128&title_color=2EC4B6&icon_color=2EC4B6&text_color=C9D6DF)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Saple&layout=compact&hide_border=true&bg_color=0A1128&title_color=2EC4B6&text_color=C9D6DF)
 
-![](https://streak-stats.demolab.com?user=Omkar-Saple&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=Omkar-Saple&hide_border=true&background=0A1128&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&sideLabels=C9D6DF&currStreakNum=C9D6DF&sideNums=C9D6DF&dates=6E90A3)
 
 </div>
 
@@ -163,7 +163,7 @@ Completed a structured AI/ML internship program combining applied machine learni
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Omkar-Saple&theme=algolia&no-frame=true&column=7&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=Omkar-Saple&theme=nord&no-frame=true&column=7&margin-w=8)
 
 </div>
 
@@ -171,7 +171,7 @@ Completed a structured AI/ML internship program combining applied machine learni
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Omkar-Saple&theme=tokyo-night&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Omkar-Saple&hide_border=true&bg_color=0A1128&color=2EC4B6&line=2EC4B6&point=C9D6DF&area_color=0E6BA8&area=true)
 
 </div>
 
@@ -213,9 +213,9 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:omkarsaple2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-6a3093?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"></a>
-<a href="https://www.linkedin.com/in/omkarsaple/"><img src="https://img.shields.io/badge/LinkedIn-6a3093?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"></a>
-<a href="https://github.com/Omkar-Saple"><img src="https://img.shields.io/badge/GitHub-6a3093?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"></a>
+<a href="mailto:omkarsaple2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-0E6BA8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1128"></a>
+<a href="https://www.linkedin.com/in/omkarsaple/"><img src="https://img.shields.io/badge/LinkedIn-0E6BA8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1128"></a>
+<a href="https://github.com/Omkar-Saple"><img src="https://img.shields.io/badge/GitHub-0E6BA8?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1128"></a>
 
 </div>
 
@@ -225,7 +225,8 @@ open_to:
 
 *"Data tells the story — models predict the ending — I build the systems that connect the two."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:a044ff,50:6a3093,100:1a1a2e&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,50:0E6BA8,100:0A1128&height=120&section=footer)
 
 </div>
+
 
