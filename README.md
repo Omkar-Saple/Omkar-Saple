@@ -1,52 +1,41 @@
-<h1 align="center">Hi 👋, I'm Omkar Saple</h1>
-<h3 align="center">Data Science & Machine Learning enthusiast | Building real-world AI/ML projects</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omkarsaple/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:omkarsaple2304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<img width="1834" alt="banner" src="https://github.com/user-attachments/assets/57edbb78-ea09-4d4d-ae37-798035aa4707" />
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2E9EF7&width=500&lines=Hi%2C+I'm+Omkar+Saple;Data+Science+%26+ML+Enthusiast;Building+AI%2FML+Projects;Exploring+Generative+AI)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/omkarsaple/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:omkarsaple2304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 💫 About Me
+
 - 🎓 B.E. Computer Engineering student (CGPA 8.50) | Diploma in Computer Science (81.14%)
 - 🔭 Currently building **CricIntel** — a cricket talent intelligence platform (ETL + ML + Streamlit)
 - 🧠 Completed an **AI Internship** with TechSaksham (Microsoft & SAP CSR, Edunet Foundation)
-- 📊 Skilled in turning raw data into insights using Python, SQL, Power BI, and Tableau
+- 📊 I turn raw data into insights using Python, SQL, Power BI, and Tableau
 - 🌱 Currently exploring **Generative AI** — LLMs, RAG pipelines, and AI agents
 - 💬 Ask me about Machine Learning, Data Analysis, or ETL pipelines
+- 📫 Reach me at **omkarsaple2304@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,sklearn,tensorflow,git,vscode,pycharm)](https://skillicons.dev)
 
-**Data Analysis & Visualization**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-
-**Machine Learning**
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
-
-**Tools & Platforms**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Data Analysis & Visualization:** Pandas · NumPy · Matplotlib · Power BI · Tableau · Excel
+**Machine Learning:** Scikit-learn · TensorFlow · XGBoost · Feature Engineering · Model Evaluation
+**Tools & Platforms:** Streamlit · MySQL · Jupyter Notebook · Git · VS Code · PyCharm
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 **🏏 [CricIntel — Cricket Talent Intelligence Platform](#)**
 ETL pipeline processing 1,000+ IPL match files into a normalized MySQL database. Built a "Hidden Gem Detection System" using Scikit-learn & XGBoost to evaluate player consistency and impact, with an interactive Streamlit dashboard for player search, comparison, and auction recommendations.
@@ -56,21 +45,41 @@ Real-time ML system to detect malicious network traffic using flow-based feature
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-Saple&show_icons=true&theme=default" alt="Omkar's GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Saple" alt="Omkar's GitHub streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Omkar-Saple&show_icons=true&theme=default&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Saple&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Saple&layout=compact&theme=default&hide_border=false)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Omkar-Saple&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Omkar-Saple/Omkar-Saple/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 - GenAI & Data Science Bootcamp 3.0 — Codebasics.io
 - SQL: Beginner to Advanced for Data Professionals — Codebasics.io
 - AI Internship — TechSaksham (Microsoft & SAP CSR, Edunet Foundation)
 
-<p align="center"><i>📫 Reach me at omkarsaple2304@gmail.com</i></p>
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Omkar-Saple&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>
