@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&colors=2EC4B6,0E6BA8,5DD9C1,C9D6DF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omkar+Saple;Data+Science+%26+ML+Engineer;Building+Real-World+AI%2FML+Systems;Exploring+Generative+AI+%26+LLMs;Turning+Data+Into+Decisions)](https://git.io/typing-svg)
 
 ![B.E. Computer Engineering](https://img.shields.io/badge/B.E.-Computer%20Engineering-0E6BA8?style=flat-square&labelColor=0A1128)
-![CGPA](https://img.shields.io/badge/CGPA-8.50-0E6BA8?style=flat-square&labelColor=0A1128)
+![CGPA](https://img.shields.io/badge/CGPA-8.81-0E6BA8?style=flat-square&labelColor=0A1128)
 ![Location](https://img.shields.io/badge/📍-India-0E6BA8?style=flat-square&labelColor=0A1128)
 
 <a href="https://www.linkedin.com/in/omkarsaple/"><img src="https://img.shields.io/badge/LinkedIn-0E6BA8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1128"></a>
