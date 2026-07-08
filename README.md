@@ -6,7 +6,7 @@
 
 ![B.E. Computer Engineering](https://img.shields.io/badge/B.E.-Computer%20Engineering-0E6BA8?style=flat-square&labelColor=0A1128)
 ![CGPA](https://img.shields.io/badge/CGPA-8.81-0E6BA8?style=flat-square&labelColor=0A1128)
-![Location](https://img.shields.io/badge/📍-India-0E6BA8?style=flat-square&labelColor=0A1128)
+![Location](https://img.shields.io/badge/📍-Thane,Maharashtra-0E6BA8?style=flat-square&labelColor=0A1128)
 
 <a href="https://www.linkedin.com/in/omkarsaple/"><img src="https://img.shields.io/badge/LinkedIn-0E6BA8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1128"></a>
 <a href="mailto:omkarsaple2304@gmail.com"><img src="https://img.shields.io/badge/Email-0E6BA8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1128"></a>
